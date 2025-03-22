@@ -16,7 +16,7 @@ awk 'NF {sub(/\r/, ""); printf "%s\\n", $0;}' private_key.pem
 ```
 
 ## YouTube Video
-![YouTube Video](https://www.youtube.com/watch?v=)
+![YouTube Video](https://www.youtube.com/watch?v=rNOi_WOdSMM)
 
 ## S3 Bucket Policy to Allow CloudFront Access
 ```json
